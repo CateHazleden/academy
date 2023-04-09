@@ -1,1 +1,1 @@
-# acadamy
+# academy
